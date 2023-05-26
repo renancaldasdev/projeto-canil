@@ -1,12 +1,14 @@
-# Projeto canil
-
-### Visualização
+<h1 align="center"> Projeto canil </h1>
 
 <p align="center">
   <img src=".github/projeto.png" width="100%" />
 </p>
 
-### Tecnologias
+## 💻 Projeto
+
+Projeto feito em node e ts que separa cada animal por especie ou pode visualizar todos em conjunto, também é possível procurar por nome.
+
+## 🚀 Tecnologias
 
 - node.js
 - Typescript
