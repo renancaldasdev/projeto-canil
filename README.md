@@ -1,6 +1,17 @@
 # Projeto canil
 
-Projeto feito no módulo do curso Node + Typescript
+### Visualização
+
+<p align="center">
+  <img src=".github/projeto.png" width="100%" />
+</p>
+
+### Tecnologias
+
+- node.js
+- Typescript
+- Express
+- mustache
 
 ### Instalação
 
